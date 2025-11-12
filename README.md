@@ -1,1 +1,1 @@
-lisäys numero 1
+Lopputyö, ja sen kuvaukset ja kommitit tänne
