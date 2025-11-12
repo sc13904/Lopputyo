@@ -7,4 +7,7 @@ lisäys numero 5
 lisäys numero 6
 lisäys numero 7
 merge-konflikt here I come
+<<<<<<< HEAD
 merge-konflikti tässä
+=======
+>>>>>>> f67bd72 (konflikti)
