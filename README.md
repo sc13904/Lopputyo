@@ -6,3 +6,4 @@ lisäys numero 4
 lisäys numero 5
 lisäys numero 6
 lisäys numero 7
+merge-konflikti tässä
